@@ -1,0 +1,28 @@
+.container{
+    width: 500;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.weeksContainer{
+    display: flex;
+   
+}
+
+.week{
+    padding: 10px;
+    /* border: 2px solid black; */
+}
+
+.weekWrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+/* .hours{
+    border: 1px solid black;
+} */
